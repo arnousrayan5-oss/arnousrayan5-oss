@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rayan 👋
 
-<!--
-**arnousrayan5-oss/arnousrayan5-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer Intern focused on building clean, responsive web interfaces.
 
-Here are some ideas to get you started:
+## 👨‍💻 Tech Stack
+- HTML, CSS, JavaScript
+- Angular
+- Git & GitHub
+- Basic Laravel & PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build responsive UI components
+- Convert designs into clean frontend code
+- Learn fast and improve through real projects
+
+## 📌 Projects
+Check out my pinned repositories below for frontend projects and demos.
+
+## 📫 Contact
+- Email: arnousrayan5@gmail.com
+- GitHub: https://github.com/arnousrayan5-oss
+
+
+
