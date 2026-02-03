@@ -1,6 +1,6 @@
 # Hi, I'm Rayan
 
-Frontend Developer Intern | HTML, CSS, JavaScript, Angular | Building responsive web apps
+Frontend Developer  | HTML, CSS, JavaScript, Angular | Building responsive web apps
 
 
 ## 👨‍💻 Tech Stack
