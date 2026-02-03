@@ -1,6 +1,7 @@
-# Hi, I'm Rayan 👋
+# Hi, I'm Rayan
 
-Frontend Developer Intern focused on building clean, responsive web interfaces.
+Frontend Developer Intern | HTML, CSS, JavaScript, Angular | Building responsive web apps
+
 
 ## 👨‍💻 Tech Stack
 - HTML, CSS, JavaScript
